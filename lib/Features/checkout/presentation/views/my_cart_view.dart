@@ -1,7 +1,6 @@
 import 'package:checkout_payment/core/widgets/cutom_app_bar.dart';
+import 'package:checkout_payment/Features/checkout/presentation/views/widgets/my_cart_view_body.dart';
 import 'package:flutter/material.dart';
-
-import 'widgets/my_cart_view_body.dart';
 
 class MyCartView extends StatelessWidget {
   const MyCartView({super.key});

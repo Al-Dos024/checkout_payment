@@ -1,5 +1,5 @@
+import 'package:checkout_payment/core/widgets/cutom_app_bar.dart';
 import 'package:flutter/material.dart';
-import '../../../../core/widgets/cutom_app_bar.dart';
 import 'widgets/thank_you_view_body.dart';
 
 class ThankYouView extends StatelessWidget {
