@@ -1,4 +1,4 @@
-import 'package:checkout_payment/core/utils/styles.dart';
+import 'package:checkout_payment_ui/core/utils/styles.dart';
 import 'package:flutter/material.dart';
 
 class TotalPrice extends StatelessWidget {
